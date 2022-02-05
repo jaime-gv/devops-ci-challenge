@@ -19,3 +19,4 @@ The build should be successful. Please provide a couple of pull-requests to show
 ## Part 2. (30 max)
 
 Write a concise description of how would you go about deploying this project to a public-cloud provider. Go in as much detail as you want, but try not to spend more than 30 minutes on it. Give a general overview of what resources will be required. Also, describe the process you'll use to build the infrastructure, deploy, handle different environments, etcetera. You can choose any public cloud and write a few sentences on why you use that provider.
+# devops-ci-challenge
